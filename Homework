@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Homework</title>
+</head>
+<body>
+
+    <h1 style="color:blue">Unordered List</h1>
+    <ul>
+        <li>Apple</li>
+        <li>Mango</li>
+        <li>Orange</li>
+    </ul>
+
+    <h1 style="color:black">Ordered List</h1>
+    <ol>
+        <li>Python</li>
+        <li>Java</li>
+        <li>HTML</li>
+    </ol>
+
+    <p style="color:blue">
+        The name Ananya is a beautiful name.
+        It means unique or special.
+        It represents someone who is different
+        and one of a kind.
+    </p>
+
+</body>
+</html>
