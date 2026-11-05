@@ -1,0 +1,25 @@
+.child {
+    width: 500;
+    height: 300px;
+    background: yellow;
+}
+button.btn{
+border-radius: 200px;
+color: aqua;
+ background-color: yellow;
+    border: red;
+}
+.child2 {
+    width: 500;
+    height: 300px;
+    background: yellow;
+}
+.child2 {
+    background-color: red;
+}
+.parant {
+    background-color: pink;
+}
+botton.btn {
+    background-color: pink;
+}

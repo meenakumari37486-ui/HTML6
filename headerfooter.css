@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+}
+.header {
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    background-color: pink;
+    padding: 40px;
+     text-align: center;
+}
+ .footer {
+    background-color: greenyellow;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
