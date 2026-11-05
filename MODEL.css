@@ -1,0 +1,33 @@
+.first_div{
+    background-color: red;
+    height: 200px;
+}
+.second_div{
+    background-color: green;
+    height: 100px;
+}
+.third_div {
+    text-align: center;
+    color:greenyellow;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.fourth_div{
+    background-color:pink;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+}
+.first_div{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.second_div{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    font-family: sans-serif;
+}
